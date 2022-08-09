@@ -6,7 +6,7 @@
 #modules_2_6_23="tun ieee1394"
 #modules_2_6="tun"
 #modules_2="ipv6"
-modules="uinput piix4"
+modules="uinput"
 
 # Linux users can give the modules some arguments if needed, per version
 # if necessary.
